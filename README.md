@@ -1,1 +1,3 @@
 # SRND-CodeBreak-2017
+
+CodeBreak Summer 2017 was an event hosted by StudentRND that took place from June 26th to July 14, 2017. It was a chance to build something interesting during summer break. I decided to make a Facial Detection/Recognition System using an Arduino and Python. It was my first lengthy Arduino project. I utilized Pythons pySerial library to have Python communicate with the Arduino, as well as using an IP Camera running off an Android phone. I designed an enclosure for the camera, Arduino, and a battery pack. This project took about a week (a couple of hours every day) and achieved facial detection as well as email/SMS notification capabilities.
